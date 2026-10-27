@@ -19,7 +19,7 @@
    * Replace the empty string below ONLY with your actual approved Deriv referral URL.
    * Do not use a guessed URL, password, API token, or private credential here.
    */
-  const APPROVED_DERIV_REFERRAL_URL = '';
+  https://t.deriv.link?t=ZQ2EBQCGTCES
 
   if (APPROVED_DERIV_REFERRAL_URL.startsWith('https://')) {
     document.querySelectorAll('[data-deriv-link]').forEach((link) => {
